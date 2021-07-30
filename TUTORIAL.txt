@@ -1,0 +1,7 @@
+code vào ra file. để input vào file input.txt. output cho ra file output.txt
+input để đúng định dạng mỗi bài code ( ví dụ bài tìm đường phải để thêm đỉnh start và đỉnh end ở sau ma trận kề)
+
+dòng 1 là số nguyên n là kích thước ma trận
+n dòng tiếp theo mỗi dòng gồm n số 0 và 1 hoặc trọng số( ko có dấu cách nếu ma trận 01 và có nếu là trọng số)
+dòng tiếp theo là start và end (nếu cần thiết tùy bài)
+với những bài đồ thị trọng số nếu A[i][j] = vô cực thì nhập 123456
